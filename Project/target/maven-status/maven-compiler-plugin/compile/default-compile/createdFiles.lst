@@ -1,0 +1,5 @@
+org\yourcompany\yourproject\taxes\TaxSystem.class
+org\yourcompany\yourproject\Company.class
+org\yourcompany\yourproject\taxes\TaxSystemIncome.class
+org\yourcompany\yourproject\Project.class
+org\yourcompany\yourproject\taxes\TaxSystemIncomeMinusExpenses.class
