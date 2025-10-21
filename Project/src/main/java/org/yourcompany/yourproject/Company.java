@@ -16,8 +16,8 @@ public class Company {
 
     public void shiftMoney(int amount) {
         if (amount > 0) {
-            debit += amount; 
-        }else if (amount < 0) {
+            debit += amount;
+        } else if (amount < 0) {
             credit += Math.abs(amount);
         }
     }
